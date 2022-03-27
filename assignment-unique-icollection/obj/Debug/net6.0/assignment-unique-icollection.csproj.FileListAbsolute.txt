@@ -1,0 +1,15 @@
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\bin\Debug\net6.0\assignment-unique-icollection.exe
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\bin\Debug\net6.0\assignment-unique-icollection.deps.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\bin\Debug\net6.0\assignment-unique-icollection.runtimeconfig.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\bin\Debug\net6.0\assignment-unique-icollection.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\bin\Debug\net6.0\ref\assignment-unique-icollection.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\bin\Debug\net6.0\assignment-unique-icollection.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.csproj.AssemblyReference.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.AssemblyInfoInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.AssemblyInfo.cs
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.csproj.CoreCompileInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\ref\assignment-unique-icollection.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-unique-icollection\assignment-unique-icollection\obj\Debug\net6.0\assignment-unique-icollection.genruntimeconfig.cache
